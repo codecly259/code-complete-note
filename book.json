@@ -6,7 +6,7 @@
     // 产生的书籍的类型
     // 注意: 它会覆盖命令行传入的参数
     // 不建议在此文件中配置
-    "generator": "site",
+    //"generator": "site",
     // 图书标题和描述 (默认从README抽取)
     "title": null,
     "description": null,
