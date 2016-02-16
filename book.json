@@ -24,8 +24,8 @@
     "pluginsConfig": {
         "fontSettings": {
             "theme": "sepia",
-            "family": "serif" or "sans",
-            "size": 1 to 4
+            "family": "sans",
+            "size": 2
         }
     },
     // 模版中的链接 (null: default, false: remove, string: new value)
