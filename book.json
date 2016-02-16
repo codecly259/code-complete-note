@@ -5,7 +5,6 @@
     // 对于ebook格式, 扩展名the extension to use for generation (default is detected from output extension)
     // "epub", "pdf", "mobi"
     // 注意: 它会覆盖命令行传入的参数
-    // 不建议在此文件中配置
     "github": null,
     "githubHost": "https://github.com/",
     "pluginsConfig": {
