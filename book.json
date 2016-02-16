@@ -6,7 +6,6 @@
     // "epub", "pdf", "mobi"
     // 注意: 它会覆盖命令行传入的参数
     // 不建议在此文件中配置
-    "extension": null,
     "github": null,
     "githubHost": "https://github.com/",
     "pluginsConfig": {
