@@ -8,7 +8,7 @@
     // 不建议在此文件中配置
     //"generator": "site",
     // 图书标题和描述 (默认从README抽取)
-    "title": null,
+    "title": "",
     "description": null,
     // 对于ebook格式, 扩展名the extension to use for generation (default is detected from output extension)
     // "epub", "pdf", "mobi"
