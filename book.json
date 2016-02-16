@@ -20,7 +20,6 @@
             "all": null
         }
     },
-    // PDF 参数
     "pdf": {
         // Add toc at the end of the file
         "toc": true,
