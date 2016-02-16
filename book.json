@@ -10,8 +10,6 @@
     // GitHub 信息(defaults are extracted using git)
     "github": null,
     "githubHost": "https://github.com/",
-    // 插件列表, can contain "-name" for removing default plugins
-    "plugins": [],
     // 插件通用配置
     "pluginsConfig": {
         "fontSettings": {
