@@ -3,7 +3,7 @@
     "githubHost": "https://github.com/",
     "pluginsConfig": {
         "fontSettings": {
-            "theme": "sepia",
+            "theme": "Sepia",
             "family": "sans",
             "size": 2
         }
