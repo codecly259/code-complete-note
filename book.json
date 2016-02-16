@@ -7,7 +7,6 @@
     // 注意: 它会覆盖命令行传入的参数
     // 不建议在此文件中配置
     "extension": null,
-    // GitHub 信息(defaults are extracted using git)
     "github": null,
     "githubHost": "https://github.com/",
     // 插件通用配置
