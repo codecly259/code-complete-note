@@ -23,7 +23,7 @@
     // 插件通用配置
     "pluginsConfig": {
         "fontSettings": {
-            "theme": "sepia", "night" or "white",
+            "theme": "sepia",
             "family": "serif" or "sans",
             "size": 1 to 4
         }
