@@ -9,7 +9,6 @@
     "extension": null,
     "github": null,
     "githubHost": "https://github.com/",
-    // 插件通用配置
     "pluginsConfig": {
         "fontSettings": {
             "theme": "sepia",
