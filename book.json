@@ -2,7 +2,7 @@
     "github": null,
     "githubHost": "https://github.com/",
     "plugins":[
-            "-"
+            "-livereload"
         ],
     "pluginsConfig": {
         "fontSettings": {
