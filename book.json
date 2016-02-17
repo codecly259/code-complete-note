@@ -1,6 +1,9 @@
 {
     "github": null,
     "githubHost": "https://github.com/",
+    "plugins":[
+            "-"
+        ],
     "pluginsConfig": {
         "fontSettings": {
             "theme": "Sepia",
